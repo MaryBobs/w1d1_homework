@@ -1,3 +1,6 @@
 "thin crust"
 "cheese"
 "tomato"
+"mushrooms"
+"pineapple"
+"olives"

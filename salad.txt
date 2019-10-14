@@ -1,3 +1,6 @@
 "lettuce"
 "cucumber"
 "tomato"
+"beetroot"
+"halloumi"
+"squash"
